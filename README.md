@@ -53,6 +53,6 @@ npx ts-node data-scripts/src/transform.ts
 ```
 
 ```bash
-# Example: Run the in-place data seeding script
+# Example: Run the data seeding script
 npx ts-node data-scripts/src/seed.ts
 ```
