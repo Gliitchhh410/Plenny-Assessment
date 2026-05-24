@@ -9,13 +9,15 @@ import { Model, Types } from 'mongoose';
 import { User } from './schemas/user.schema';
 import { CreateUserDto } from './dto/create-user.dto';
 import { UserRestaurantFollow } from '../follows/schemas/user-restaurant-follow.schema';
-import { Restaurant } from './schemas/restaurant.schema';
+import { Restaurant } from '../restaurants/schemas/restaurant.schema';
 @Injectable()
 export class UsersService {
   constructor(
     @InjectModel(User.name) private readonly userModel: Model<User>,
-    @InjectModel(UserRestaurantFollow.name) private readonly followModel: Model<UserRestaurantFollow>,
-    @InjectModel(Restaurant.name) private readonly restaurantModel: Model<Restaurant>,
+    @InjectModel(UserRestaurantFollow.name)
+    private readonly followModel: Model<UserRestaurantFollow>,
+    @InjectModel(Restaurant.name)
+    private readonly restaurantModel: Model<Restaurant>,
   ) {}
 
   async create(dto: CreateUserDto) {

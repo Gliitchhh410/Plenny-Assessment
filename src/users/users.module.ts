@@ -7,6 +7,10 @@ import {
 } from '../follows/schemas/user-restaurant-follow.schema';
 import { UsersController } from './users.controller';
 import { UsersService } from './users.service';
+import {
+  Restaurant,
+  RestaurantSchema,
+} from '../restaurants/schemas/restaurant.schema';
 @Module({
   imports: [
     MongooseModule.forFeature([

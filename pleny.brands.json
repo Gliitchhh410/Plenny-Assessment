@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "66069ff93007b006635c0245"
+  },
+  "name": "Ward, Hand and Ortiz",
+  "yearFounded": 1970,
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:26.320Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:26.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0246"
+  },
+  "name": "Ergonomic Frozen Bacon",
+  "yearFounded": 1600,
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:26.333Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:26.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0247"
+  },
+  "name": "Breitenberg, Greenholt and Ledner",
+  "yearFounded": 1982,
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:26.337Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:26.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0248"
+  },
+  "name": "Modern Granite Fish",
+  "yearFounded": 1970,
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:26.340Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:26.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c0249"
+  },
+  "name": "Gorgeous Granite Pizza",
+  "yearFounded": 1980,
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:26.345Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:26.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024a"
+  },
+  "name": "Oriental Plastic Pants",
+  "yearFounded": 1970,
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:26.348Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:26.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024b"
+  },
+  "name": "Refined Granite Towels",
+  "yearFounded": 1600,
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:26.353Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:26.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024c"
+  },
+  "name": "Corkery Inc",
+  "yearFounded": 1935,
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:26.358Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:26.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024d"
+  },
+  "name": "Licensed Concrete Tuna",
+  "yearFounded": 1600,
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:26.361Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:26.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66069ff93007b006635c024e"
+  },
+  "name": "Generic Cotton Pizza",
+  "yearFounded": 1600,
+  "numberOfLocations": 1,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:26.365Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:26.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1370cf780acbd1181da260"
+  },
+  "name": "Mraz Inc",
+  "yearFounded": 1600,
+  "numberOfLocations": 1,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:39.745Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:39.745Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1370cf780acbd1181da261"
+  },
+  "name": "Cole - Beier",
+  "yearFounded": 2026,
+  "numberOfLocations": 55000,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:39.747Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:39.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1370cf780acbd1181da262"
+  },
+  "name": "Kshlerin LLC",
+  "yearFounded": 1750,
+  "numberOfLocations": 45,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1370cf780acbd1181da263"
+  },
+  "name": "Wuckert and Sons",
+  "yearFounded": 1999,
+  "numberOfLocations": 3,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1370cf780acbd1181da264"
+  },
+  "name": "Daugherty - Lesch",
+  "yearFounded": 2025,
+  "numberOfLocations": 2,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1370cf780acbd1181da265"
+  },
+  "name": "Harber Group",
+  "yearFounded": 1985,
+  "numberOfLocations": 150,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1370cf780acbd1181da266"
+  },
+  "name": "Konopelski - Abernathy",
+  "yearFounded": 1920,
+  "numberOfLocations": 12500,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1370cf780acbd1181da267"
+  },
+  "name": "Cruickshank - Ledner",
+  "yearFounded": 1924,
+  "numberOfLocations": 5,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1370cf780acbd1181da268"
+  },
+  "name": "Koepp, Predovic and Kihn",
+  "yearFounded": 1955,
+  "numberOfLocations": 850,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1370cf780acbd1181da269"
+  },
+  "name": "Ziemann Group",
+  "yearFounded": 2012,
+  "numberOfLocations": 350,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T21:42:39.748Z"
+  }
+}]
